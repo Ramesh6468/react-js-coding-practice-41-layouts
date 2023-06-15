@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.configcontrolContainer {
+  background-color: #475569;
+  padding-left: 50px;
+  padding: 20px;
+}
+.heading {
+  color: #f1f5f9;
+  font-weight: bold;
+}
+
+.label {
+    color: #f1f5f9;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.layoutContainer {
+    background-color: #f1f5f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.responsiveContainer {
+  background-color: #f1f5f9;
+}

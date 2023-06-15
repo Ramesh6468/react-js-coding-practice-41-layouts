@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.headerContainer {
+  background-color: #64748b;
+  height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+}
